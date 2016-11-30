@@ -30,7 +30,7 @@ def tool(no_cache):
     print "Saving %d repositories to \"%s\"."%(len(lines), file_out)
     lines.sort()
     with codecs.open(file_out, "w") as fo:
-        fo.write("last_updated,github_link,app_id\n")
+        fo.write("last_updated,github_link,app_id,category\n")
         fo.writelines("\n".join([",".join(line) for line in lines[::-1]]))
         fo.write("\n")
 if __name__ == '__main__':
