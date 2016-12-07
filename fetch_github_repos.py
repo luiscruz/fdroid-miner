@@ -7,6 +7,7 @@ import os
 @click.command()
 @click.option('--no-cache', default=False, is_flag=True, help='Force downloading F-droid metadata.')
 def tool(no_cache):
+    """Tool to get github repos of Android apps available at F-Droid."""
     file_out = "./android_repos.csv"
     file_in = "./fdroid.xml"
     if not os.path.isfile(file_in) or no_cache:
