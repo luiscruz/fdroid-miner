@@ -6,7 +6,7 @@ import json
 import os
 
 # authenticate github api
-with open('./config.json') as config_file:
+with open('../config.json') as config_file:
     config = json.load(config_file)
 
 gh = Github(

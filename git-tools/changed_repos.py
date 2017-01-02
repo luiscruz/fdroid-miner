@@ -10,7 +10,8 @@ def tool(repo_paths):
         try:
             repo = Repo(repo_path)
             if repo.is_dirty():
-                print repo_path
+                repo_name = repo_path.split('/')[-1]
+                click.secho(repo_name, fg='green')
         except Exception as e:
             click.secho(
                 'Failed to check repo in {} {}'.format(repo_path, e),
