@@ -2,6 +2,7 @@ import click
 import pandas
 from pygithub3 import Github, exceptions as gh_exceptions
 from urlparse import urlparse
+import json
 
 def get_user_and_repo(github_url):
     parse = urlparse(github_url)
