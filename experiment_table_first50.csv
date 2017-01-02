@@ -1,0 +1,51 @@
+,last_updated,github_link,app_id,category,repo,username,commits,contributors,created_at,forks,stars
+0,2016-11-27,https://github.com/vector-im/vector-android,im.vector.alpha,Internet,vector-android,vector-im,1933,8,2015-12-17 15:18:05,69,213
+1,2016-11-27,https://github.com/vanilla-music/vanilla,ch.blinkenlights.android.vanilla,Multimedia,vanilla,vanilla-music,1543,26,2012-09-22 17:04:41,152,326
+2,2016-11-27,https://github.com/syncthing/syncthing-android,com.nutomic.syncthingandroid,Internet,syncthing-android,syncthing,1173,27,2014-02-22 17:15:19,105,624
+3,2016-11-27,https://github.com/smithdtyler/prettygoodmusicplayer,com.smithdtyler.prettygoodmusicplayer,Multimedia,prettygoodmusicplayer,smithdtyler,248,8,2014-08-10 03:16:32,15,44
+4,2016-11-27,https://github.com/phpsysinfo/psiandroid,com.phpsysinfo,System,psiandroid,phpsysinfo,247,7,2014-02-26 20:50:31,4,8
+5,2016-11-27,https://github.com/nextcloud/android,com.nextcloud.android.beta,Internet,android,nextcloud,5043,60,2016-06-06 21:23:36,71,135
+6,2016-11-27,https://github.com/konradrenner/kolabnotes-android,org.kore.kolabnotes.android,Writing,kolabnotes-android,konradrenner,453,5,2015-03-07 10:55:50,11,33
+7,2016-11-27,https://github.com/hidroh/materialistic,io.github.hidroh.materialistic,Internet,materialistic,hidroh,1562,7,2015-01-22 04:03:54,238,1055
+8,2016-11-27,https://github.com/haiwen/seadroid,com.seafile.seadroid2,Internet,seadroid,haiwen,2045,27,2012-11-28 10:54:37,156,236
+9,2016-11-27,https://github.com/brarcher/loyalty-card-locker,protect.card_locker,Money,loyalty-card-locker,brarcher,61,6,2016-01-31 01:39:37,10,14
+10,2016-11-27,https://github.com/amasciul/Drinks,fr.masciulli.drinks,Reading,Drinks,amasciul,700,3,2013-10-22 16:33:44,9,13
+11,2016-11-27,https://github.com/SufficientlySecure/document-viewer,org.sufficientlysecure.viewer,Reading,document-viewer,SufficientlySecure,267,15,2013-07-03 10:05:08,72,186
+12,2016-11-27,https://github.com/SimpleMobileTools/Simple-Flashlight,com.simplemobiletools.flashlight,System,Simple-Flashlight,SimpleMobileTools,187,9,2016-01-06 12:32:04,11,9
+13,2016-11-27,https://github.com/SimpleMobileTools/Simple-Camera,com.simplemobiletools.camera,Multimedia,Simple-Camera,SimpleMobileTools,325,12,2016-04-12 20:26:05,21,39
+14,2016-11-27,https://github.com/SimpleMobileTools/Simple-Calendar,com.simplemobiletools.calendar,System,Simple-Calendar,SimpleMobileTools,550,12,2016-01-26 21:02:54,17,28
+15,2016-11-27,https://github.com/SecUSo/privacy-friendly-todo-list,org.secuso.privacyfriendlytodolist,Writing,privacy-friendly-todo-list,SecUSo,63,2,2016-04-28 12:48:31,2,5
+16,2016-11-27,https://github.com/SecUSo/privacy-friendly-dicer,org.secuso.privacyfriendlydicer,Games,privacy-friendly-dicer,SecUSo,112,1,2015-08-31 17:26:36,1,7
+17,2016-11-27,https://github.com/Sash0k/bluetooth-spp-terminal,ru.sash0k.bluetooth_terminal,Development,bluetooth-spp-terminal,Sash0k,32,2,2014-03-25 13:26:54,38,37
+18,2016-11-27,https://github.com/GunshipPenguin/open_flood,com.gunshippenguin.openflood,Games,open_flood,GunshipPenguin,109,4,2016-01-17 01:18:20,16,34
+19,2016-11-27,https://github.com/Freeyourgadget/Gadgetbridge,nodomain.freeyourgadget.gadgetbridge,Connectivity,Gadgetbridge,Freeyourgadget,1945,31,2015-01-05 23:19:03,111,624
+20,2016-11-27,https://github.com/AdAway/AdAway,org.adaway,System,AdAway,AdAway,718,19,2012-07-15 15:34:47,184,817
+21,2016-11-26,https://github.com/msal/muzei-nationalgeographic,de.msal.muzei.nationalgeographic,Multimedia,muzei-nationalgeographic,msal,35,2,2014-02-20 16:48:28,2,9
+22,2016-11-26,https://github.com/materialos/CM12-Theme,com.materialos.cm.theme,Theming,CM12-Theme,materialos,169,4,2015-08-13 03:32:06,23,34
+23,2016-11-26,https://github.com/marunjar/anewjkuapp,org.voidsink.anewjkuapp,Science & Education,anewjkuapp,marunjar,791,3,2014-05-03 09:07:08,3,7
+24,2016-11-26,https://github.com/lllllT/AtmosphereLogger,org.tamanegi.atmosphere,Science & Education,AtmosphereLogger,lllllT,44,1,2011-10-15 11:26:56,1,7
+25,2016-11-26,https://github.com/ligi/SCR,org.ligi.scr,Time,SCR,ligi,95,2,2014-12-03 21:02:56,2,6
+26,2016-11-26,https://github.com/ldionmarcil/OSRSHelper,com.infonuascape.osrshelper,Games,OSRSHelper,ldionmarcil,63,2,2014-09-09 03:24:29,1,7
+27,2016-11-26,https://github.com/kraigs-android/kraigsandroid,com.angrydoughnuts.android.alarmclock,Time,kraigsandroid,kraigs-android,1,1,2015-11-01 21:01:24,8,5
+28,2016-11-26,https://github.com/klausw/hackerskeyboard,org.pocketworkstation.pckeyboard,Writing,hackerskeyboard,klausw,615,17,2016-01-22 21:40:54,64,129
+30,2016-11-26,https://github.com/erickok/transdroid-search,org.transdroid.search,Internet,transdroid-search,erickok,103,13,2013-06-22 11:26:42,40,58
+31,2016-11-26,https://github.com/crysxd/Studiportal-Checker,de.hfu.funfpunktnull,Science & Education,Studiportal-Checker,crysxd,257,3,2014-07-17 09:32:53,0,6
+32,2016-11-26,https://github.com/bpeel/prevo,uk.co.busydoingnothing.prevo,Reading,prevo,bpeel,201,1,2015-04-28 14:12:41,1,8
+33,2016-11-26,https://github.com/SecUSo/privacy-friendly-notes,org.secuso.privacyfriendlynotes,Writing,privacy-friendly-notes,SecUSo,110,2,2016-05-03 21:49:16,0,5
+34,2016-11-26,https://github.com/SecUSo/privacy-friendly-memo-game,org.secuso.privacyfriendlymemory,Games,privacy-friendly-memo-game,SecUSo,58,3,2016-05-03 21:51:37,0,2
+35,2016-11-26,https://github.com/SecUSo/privacy-friendly-dice-game,org.secuso.privacyfriendlyyahtzeedicer,Games,privacy-friendly-dice-game,SecUSo,95,2,2016-01-21 11:18:40,0,0
+37,2016-11-23,https://github.com/scoute-dich/HHSMoodle,de.baumann.hhsmoodle,Time,HHSMoodle,scoute-dich,31,1,2016-08-08 21:12:31,2,4
+38,2016-11-23,https://github.com/raatmarien/red-moon,com.jmstudios.redmoon,System,red-moon,raatmarien,414,38,2016-03-16 11:37:25,21,152
+39,2016-11-23,https://github.com/ligi/SurvivalManual,org.ligi.survivalmanual,Reading,SurvivalManual,ligi,121,2,2016-09-16 18:47:11,5,17
+40,2016-11-23,https://github.com/ccrama/Slide,me.ccrama.redditslide,Reading,Slide,ccrama,3195,55,2015-10-01 23:21:26,146,603
+41,2016-11-23,https://github.com/alt236/USB-Device-Info---Android,aws.apps.usbDeviceEnumerator,System,USB-Device-Info---Android,alt236,58,2,2011-10-27 18:06:16,38,63
+42,2016-11-23,https://github.com/SimpleMobileTools/Simple-Gallery,com.simplemobiletools.gallery,Multimedia,Simple-Gallery,SimpleMobileTools,708,15,2016-02-16 21:17:13,24,44
+43,2016-11-23,https://github.com/SimpleMobileTools/Simple-File-Manager,com.simplemobiletools.filemanager,System,Simple-File-Manager,SimpleMobileTools,377,9,2016-07-12 20:06:21,13,18
+44,2016-11-23,https://github.com/Diaspora-for-Android/dandelion,com.github.dfa.diaspora_android,Internet,dandelion,Diaspora-for-Android,382,7,2016-03-03 16:46:23,4,18
+45,2016-11-22,https://github.com/guardianproject/PixelKnot,info.guardianproject.pixelknot,Security,PixelKnot,guardianproject,128,7,2012-12-08 22:45:28,21,44
+47,2016-11-22,https://github.com/enricocid/Battery-Live,com.enrico.earthquake.batterysimplysolid,Theming,Battery-Live,enricocid,31,3,2016-11-09 18:56:46,3,4
+48,2016-11-22,https://github.com/aaronjwood/PortAuthority,com.aaronjwood.portauthority,Security,PortAuthority,aaronjwood,774,8,2014-12-12 03:50:45,12,35
+49,2016-11-22,https://github.com/SimpleMobileTools/Simple-Notes,com.simplemobiletools.notes,System,Simple-Notes,SimpleMobileTools,283,10,2016-02-13 20:00:54,11,15
+50,2016-11-22,https://github.com/SecUSo/privacy-friendly-shopping-list,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist,Multimedia,privacy-friendly-shopping-list,SecUSo,366,3,2016-04-28 12:49:16,3,5
+51,2016-11-21,https://github.com/zouroboros/filmchecker,me.murks.filmchecker,Multimedia,filmchecker,zouroboros,31,1,2016-09-04 11:42:15,0,0
+52,2016-11-21,https://github.com/w84death/Tanks-of-Freedom,in.p1x.tanks_of_freedom,Games,Tanks-of-Freedom,w84death,1650,14,2015-01-20 17:50:38,44,269
