@@ -18,5 +18,6 @@ def tool(branch, repo_paths):
                     fg='red', err=True
                 )
 
+
 if __name__ == '__main__':
     tool()

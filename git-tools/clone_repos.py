@@ -17,7 +17,7 @@ gh = Github(
 def gitclone(repo_link, clone_dir):
     try:
         Repo.clone_from(repo_link, clone_dir)
-    except Exception as e:
+    except Exception:
         click.secho('Failed cloning {}'.format(repo_link), fg='red', err=True)
 
 
@@ -41,11 +41,12 @@ def tool(clone_dir, csv_file):
                 click.secho('Cloning...', fg='blue')
                 gitclone(fork.clone_url, os.path.join(clone_dir, repo))
             click.secho('Done.', fg='green')
-        except Exception as e:
+        except Exception:
             click.secho(
                 'Failed forking {}/{}'.format(username, repo),
                 fg='red', err=True
             )
+
 
 if __name__ == '__main__':
     tool()

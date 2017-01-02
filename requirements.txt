@@ -2,3 +2,4 @@ click
 pygithub3
 gitpython
 pandas
+flake8
